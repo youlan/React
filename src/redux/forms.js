@@ -1,4 +1,4 @@
-export const InitialFeedback ={
+export const InitialFeedback = {
     firstname: '',
     lastname: '',
     telnum: '',
@@ -6,5 +6,5 @@ export const InitialFeedback ={
     agree: false,
     contactType: 'Tel.',
     message: ''
-}
+};
 
